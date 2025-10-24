@@ -15,6 +15,10 @@ KANGUR IS TRULY MANUAL CODING PROJECT - NO USAGE OF CHAT GPT OR DUPLICATING STAC
 
 ---
 
+![](https://komarev.com/ghpvc/?username=k4ng00r&color=red)
+
+---
+
 ## 🧠 Logic & Survival Instincts  
 | Skill | Value (PLN/h) |
 |-------|----------------|
@@ -122,7 +126,7 @@ A few grosze for every move, summed into what passes for a career.
 | Template literals | 5 | 0.04 | **0.20** |
 | `parseInt` / `Number` | 4 | 0.03 | **0.12** |
 | Comparison operators (`==`, `===`, etc.) | 25 | 0.02 | **0.50** |
-| Arithmetic operators (`+`, `-`, `*`, `/`, `%`, `**`) | 47 | 0.02 | **0.94** |
+| Arithmetic operators (`+-*/%**`) | 47 | 0.02 | **0.94** |
 | Logical operators (`&&`, `||`, `!`) | 9 | 0.02 | **0.18** |
 | `new` / instantiation | 0 | 0.00 | **0.00** |
 | Static method (class) | 1 | 0.05 | **0.05** |
