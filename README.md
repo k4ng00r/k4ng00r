@@ -197,7 +197,7 @@ Below is the **functional income report** of a marsupial at war with JavaScript.
 | Spread operator `...` | 12 | 0.03 | **0.36** |
 | `Number()` / `parseInt()` | 10 | 0.03 | **0.30** |
 | Equality & inequality ops | 78 | 0.01 | **0.78** |
-| Logical operators (`&&`, `||`, `!`) | 110 | 0.01 | **1.10** |
+| Logical operators (`&&`, `\|\|`, `!`) | 110 | 0.01 | **1.10** |
 | Exponentiation `**` | 9 | 0.02 | **0.18** |
 | Array & string method flexing (all combined) | 180 | 0.02 | **3.60** |
 
